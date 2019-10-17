@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-17T01:19:34.736Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3928.4 Safari/537.36" etag="nKe6aum7yvDEgmjohd6w" version="12.1.1" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-17T01:51:50.100Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3928.4 Safari/537.36" etag="NW3eVJeZX4AKgWoYXxTH" version="12.1.1" type="github" pages="1">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -69,8 +69,8 @@
             <mxPoint x="622" y="435" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="29FFIAUs5XcYgmdO7f9W-90" value="sc_appoint_regist生成挂号订单，状态挂号成功" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="545" width="290" height="30" as="geometry"/>
+        <mxCell id="29FFIAUs5XcYgmdO7f9W-90" value="sc_appoint_regist生成挂号订单，状态挂号成功&lt;br&gt;sc_busi_order生成订单号，order_no跟挂号表关联" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="540" width="310" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="29FFIAUs5XcYgmdO7f9W-92" value="tocure_register_order生成就诊人信息，15分钟内 pay_state=1&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;" parent="1" vertex="1">
           <mxGeometry x="855" y="530" width="370" height="30" as="geometry"/>
@@ -128,8 +128,8 @@
         <mxCell id="RHqqQkZ-aHFHa1xJpkzD-21" value="否" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
           <mxGeometry x="717" y="640" width="30" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="RHqqQkZ-aHFHa1xJpkzD-22" value="sc_appoint_regist生成挂号订单，状态挂号失败！" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;" vertex="1" parent="1">
-          <mxGeometry x="315" y="645" width="300" height="30" as="geometry"/>
+        <mxCell id="RHqqQkZ-aHFHa1xJpkzD-22" value="sc_appoint_regist生成挂号订单，&lt;br&gt;状态business_starus=4,habdle_message=退号成功！" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="640" width="330" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="RHqqQkZ-aHFHa1xJpkzD-24" value="是" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
           <mxGeometry x="628" y="640" width="30" height="20" as="geometry"/>
