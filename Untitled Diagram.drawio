@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-17T01:51:50.100Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3928.4 Safari/537.36" etag="NW3eVJeZX4AKgWoYXxTH" version="12.1.1" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-17T11:45:07.388Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3928.4 Safari/537.36" etag="e-4IouPNn_gWAJKcUBUE" version="12.1.1" type="github" pages="1">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -70,7 +70,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="29FFIAUs5XcYgmdO7f9W-90" value="sc_appoint_regist生成挂号订单，状态挂号成功&lt;br&gt;sc_busi_order生成订单号，order_no跟挂号表关联" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="540" width="310" height="40" as="geometry"/>
+          <mxGeometry x="100" y="490" width="310" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="29FFIAUs5XcYgmdO7f9W-92" value="tocure_register_order生成就诊人信息，15分钟内 pay_state=1&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;" parent="1" vertex="1">
           <mxGeometry x="855" y="530" width="370" height="30" as="geometry"/>
@@ -128,17 +128,14 @@
         <mxCell id="RHqqQkZ-aHFHa1xJpkzD-21" value="否" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
           <mxGeometry x="717" y="640" width="30" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="RHqqQkZ-aHFHa1xJpkzD-22" value="sc_appoint_regist生成挂号订单，&lt;br&gt;状态business_starus=4,habdle_message=退号成功！" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="640" width="330" height="40" as="geometry"/>
+        <mxCell id="RHqqQkZ-aHFHa1xJpkzD-22" value="状态business_starus=4,habdle_message=退号成功！" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="645" width="330" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="RHqqQkZ-aHFHa1xJpkzD-24" value="是" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
           <mxGeometry x="628" y="640" width="30" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="RHqqQkZ-aHFHa1xJpkzD-27" value="tocure_register_order生成就诊人信息，15分钟内 pay_state=1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="680" width="370" height="30" as="geometry"/>
-        </mxCell>
-        <mxCell id="RHqqQkZ-aHFHa1xJpkzD-29" value="Text" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="1279" y="705" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="RHqqQkZ-aHFHa1xJpkzD-30" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="RHqqQkZ-aHFHa1xJpkzD-27">
           <mxGeometry relative="1" as="geometry">
@@ -147,10 +144,36 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RHqqQkZ-aHFHa1xJpkzD-31" value="缴费信息" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="433" y="745" width="60" height="20" as="geometry"/>
+          <mxGeometry x="340" y="810" width="60" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="RHqqQkZ-aHFHa1xJpkzD-32" value="发起退款" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="763" y="822" width="60" height="20" as="geometry"/>
+          <mxGeometry x="840" y="840" width="60" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="RHqqQkZ-aHFHa1xJpkzD-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHqqQkZ-aHFHa1xJpkzD-34" target="RHqqQkZ-aHFHa1xJpkzD-35">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="RHqqQkZ-aHFHa1xJpkzD-34" value="建档" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="397.5" width="90" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="RHqqQkZ-aHFHa1xJpkzD-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RHqqQkZ-aHFHa1xJpkzD-35" target="RHqqQkZ-aHFHa1xJpkzD-37">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="RHqqQkZ-aHFHa1xJpkzD-35" value="预约挂号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="470" width="90" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="RHqqQkZ-aHFHa1xJpkzD-37" value="付款" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="560" width="90" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="RHqqQkZ-aHFHa1xJpkzD-39" value="挂号支付成功" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="720" width="90" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="RHqqQkZ-aHFHa1xJpkzD-40" value="sc_acount_user&lt;br&gt;bas_patients&amp;nbsp;&lt;br&gt;bas_patients_rds" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;" vertex="1" parent="1">
+          <mxGeometry x="281" y="360" width="130" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="RHqqQkZ-aHFHa1xJpkzD-41" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" target="RHqqQkZ-aHFHa1xJpkzD-34" parent="1" source="RHqqQkZ-aHFHa1xJpkzD-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="410" as="sourcePoint"/>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
