@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-12T02:29:37.597Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.8 Safari/537.36" etag="EdxIi-o2FQkX8YFFauQi" version="12.2.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-12T02:35:29.547Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.8 Safari/537.36" etag="4k5LSbLoM0rFe7zuuJC3" version="12.2.3" type="github" pages="1">
   <diagram id="mo2l67mq2gf-snKIyfyM" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -193,17 +193,17 @@
         <mxCell id="0tHurYUijRGF0hzQCr-z-51" value="数据驱动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="489" y="517" width="77" height="25" as="geometry"/>
         </mxCell>
-        <mxCell id="0tHurYUijRGF0hzQCr-z-52" value="高层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0tHurYUijRGF0hzQCr-z-52" value="高层决策" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="450" width="109" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="0tHurYUijRGF0hzQCr-z-53" value="院务管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="338" y="450" width="109" height="30" as="geometry"/>
+          <mxGeometry x="342" y="450" width="109" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="0tHurYUijRGF0hzQCr-z-54" value="财务分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="481" y="450" width="109" height="30" as="geometry"/>
+          <mxGeometry x="491" y="450" width="109" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="0tHurYUijRGF0hzQCr-z-55" value="GPO支持" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630.5" y="450" width="109" height="30" as="geometry"/>
+          <mxGeometry x="641.5" y="450" width="109" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
